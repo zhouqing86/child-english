@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_this_is_mommy.mp3",
+    "text": "This is Mommy."
+  },
+  {
+    "file": "02_this_is_daddy.mp3",
+    "text": "This is Daddy."
+  },
+  {
+    "file": "03_hi_mommy.mp3",
+    "text": "Hi, Mommy."
+  },
+  {
+    "file": "04_hi_daddy.mp3",
+    "text": "Hi, Daddy."
+  },
+  {
+    "file": "05_i_love_mommy.mp3",
+    "text": "I love Mommy."
+  },
+  {
+    "file": "06_i_love_daddy.mp3",
+    "text": "I love Daddy."
+  },
+  {
+    "file": "07_come_to_mommy.mp3",
+    "text": "Come to Mommy."
+  },
+  {
+    "file": "08_come_to_daddy.mp3",
+    "text": "Come to Daddy."
+  },
+  {
+    "file": "09_grandma_is_here.mp3",
+    "text": "Grandma is here."
+  },
+  {
+    "file": "10_grandpa_is_here.mp3",
+    "text": "Grandpa is here."
+  },
+  {
+    "file": "11_give_daddy_a_hug.mp3",
+    "text": "Give Daddy a hug."
+  },
+  {
+    "file": "12_give_mommy_a_kiss.mp3",
+    "text": "Give Mommy a kiss."
+  },
+  {
+    "file": "13_lets_call_grandma.mp3",
+    "text": "Let's call Grandma."
+  },
+  {
+    "file": "14_say_hello.mp3",
+    "text": "Say hello."
+  },
+  {
+    "file": "15_say_bye_bye.mp3",
+    "text": "Say bye-bye."
+  },
+  {
+    "file": "16_we_are_family.mp3",
+    "text": "We are family."
+  },
+  {
+    "file": "17_this_is_my_brother.mp3",
+    "text": "This is my brother."
+  },
+  {
+    "file": "18_this_is_my_sister.mp3",
+    "text": "This is my sister."
+  },
+  {
+    "file": "19_hold_my_hand.mp3",
+    "text": "Hold my hand."
+  },
+  {
+    "file": "20_i_miss_daddy.mp3",
+    "text": "I miss Daddy."
+  }
+]

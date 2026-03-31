@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_good_morning.mp3",
+    "text": "Good morning."
+  },
+  {
+    "file": "02_wake_up.mp3",
+    "text": "Wake up."
+  },
+  {
+    "file": "03_time_to_get_up.mp3",
+    "text": "Time to get up."
+  },
+  {
+    "file": "04_are_you_sleepy.mp3",
+    "text": "Are you sleepy?"
+  },
+  {
+    "file": "05_lets_wash_your_face.mp3",
+    "text": "Let's wash your face."
+  },
+  {
+    "file": "06_brush_your_teeth.mp3",
+    "text": "Brush your teeth."
+  },
+  {
+    "file": "07_put_on_your_shirt.mp3",
+    "text": "Put on your shirt."
+  },
+  {
+    "file": "08_put_on_your_socks.mp3",
+    "text": "Put on your socks."
+  },
+  {
+    "file": "09_put_on_your_shoes.mp3",
+    "text": "Put on your shoes."
+  },
+  {
+    "file": "10_where_are_your_shoes.mp3",
+    "text": "Where are your shoes?"
+  },
+  {
+    "file": "11_here_they_are.mp3",
+    "text": "Here they are."
+  },
+  {
+    "file": "12_come_here_please.mp3",
+    "text": "Come here, please."
+  },
+  {
+    "file": "13_are_you_ready.mp3",
+    "text": "Are you ready?"
+  },
+  {
+    "file": "14_im_ready.mp3",
+    "text": "I'm ready."
+  },
+  {
+    "file": "15_open_the_door.mp3",
+    "text": "Open the door."
+  },
+  {
+    "file": "16_lets_go.mp3",
+    "text": "Let's go."
+  },
+  {
+    "file": "17_i_want_water.mp3",
+    "text": "I want water."
+  },
+  {
+    "file": "18_im_thirsty.mp3",
+    "text": "I'm thirsty."
+  },
+  {
+    "file": "19_give_me_a_hug.mp3",
+    "text": "Give me a hug."
+  },
+  {
+    "file": "20_good_job.mp3",
+    "text": "Good job."
+  }
+]

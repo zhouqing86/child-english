@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_this_is_your_shirt.mp3",
+    "text": "This is your shirt."
+  },
+  {
+    "file": "02_put_on_your_pants.mp3",
+    "text": "Put on your pants."
+  },
+  {
+    "file": "03_put_on_your_jacket.mp3",
+    "text": "Put on your jacket."
+  },
+  {
+    "file": "04_put_on_your_hat.mp3",
+    "text": "Put on your hat."
+  },
+  {
+    "file": "05_put_on_your_socks.mp3",
+    "text": "Put on your socks."
+  },
+  {
+    "file": "06_put_on_your_shoes.mp3",
+    "text": "Put on your shoes."
+  },
+  {
+    "file": "07_take_off_your_pajamas.mp3",
+    "text": "Take off your pajamas."
+  },
+  {
+    "file": "08_which_shirt_do_you_want.mp3",
+    "text": "Which shirt do you want?"
+  },
+  {
+    "file": "09_i_want_the_blue_shirt.mp3",
+    "text": "I want the blue shirt."
+  },
+  {
+    "file": "10_this_one.mp3",
+    "text": "This one."
+  },
+  {
+    "file": "11_that_one.mp3",
+    "text": "That one."
+  },
+  {
+    "file": "12_zip_up_your_jacket.mp3",
+    "text": "Zip up your jacket."
+  },
+  {
+    "file": "13_button_your_coat.mp3",
+    "text": "Button your coat."
+  },
+  {
+    "file": "14_where_is_your_backpack.mp3",
+    "text": "Where is your backpack?"
+  },
+  {
+    "file": "15_here_is_your_backpack.mp3",
+    "text": "Here is your backpack."
+  },
+  {
+    "file": "16_we_are_going_out.mp3",
+    "text": "We are going out."
+  },
+  {
+    "file": "17_is_it_too_big.mp3",
+    "text": "Is it too big?"
+  },
+  {
+    "file": "18_its_too_small.mp3",
+    "text": "It's too small."
+  },
+  {
+    "file": "19_turn_around.mp3",
+    "text": "Turn around."
+  },
+  {
+    "file": "20_you_look_great.mp3",
+    "text": "You look great."
+  }
+]

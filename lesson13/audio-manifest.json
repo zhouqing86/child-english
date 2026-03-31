@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_do_you_want_an_apple.mp3",
+    "text": "Do you want an apple?"
+  },
+  {
+    "file": "02_i_want_grapes.mp3",
+    "text": "I want grapes."
+  },
+  {
+    "file": "03_this_is_a_banana.mp3",
+    "text": "This is a banana."
+  },
+  {
+    "file": "04_peel_the_banana.mp3",
+    "text": "Peel the banana."
+  },
+  {
+    "file": "05_wash_the_grapes.mp3",
+    "text": "Wash the grapes."
+  },
+  {
+    "file": "06_take_a_strawberry.mp3",
+    "text": "Take a strawberry."
+  },
+  {
+    "file": "07_bite_the_apple.mp3",
+    "text": "Bite the apple."
+  },
+  {
+    "file": "08_its_sweet.mp3",
+    "text": "It's sweet."
+  },
+  {
+    "file": "09_its_sour.mp3",
+    "text": "It's sour."
+  },
+  {
+    "file": "10_i_like_oranges.mp3",
+    "text": "I like oranges."
+  },
+  {
+    "file": "11_have_a_snack.mp3",
+    "text": "Have a snack."
+  },
+  {
+    "file": "12_one_for_you.mp3",
+    "text": "One for you."
+  },
+  {
+    "file": "13_one_for_me.mp3",
+    "text": "One for me."
+  },
+  {
+    "file": "14_more_grapes_please.mp3",
+    "text": "More grapes, please."
+  },
+  {
+    "file": "15_no_thanks.mp3",
+    "text": "No, thanks."
+  },
+  {
+    "file": "16_yummy_snack.mp3",
+    "text": "Yummy snack."
+  },
+  {
+    "file": "17_this_is_a_peach.mp3",
+    "text": "This is a peach."
+  },
+  {
+    "file": "18_this_is_a_pear.mp3",
+    "text": "This is a pear."
+  },
+  {
+    "file": "19_cut_the_apple.mp3",
+    "text": "Cut the apple."
+  },
+  {
+    "file": "20_share_the_snack.mp3",
+    "text": "Share the snack."
+  }
+]

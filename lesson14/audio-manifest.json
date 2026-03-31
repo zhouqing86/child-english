@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_its_breakfast_time.mp3",
+    "text": "It's breakfast time."
+  },
+  {
+    "file": "02_lets_eat_rice.mp3",
+    "text": "Let's eat rice."
+  },
+  {
+    "file": "03_eat_your_noodles.mp3",
+    "text": "Eat your noodles."
+  },
+  {
+    "file": "04_here_is_your_egg.mp3",
+    "text": "Here is your egg."
+  },
+  {
+    "file": "05_do_you_want_soup.mp3",
+    "text": "Do you want soup?"
+  },
+  {
+    "file": "06_i_want_soup.mp3",
+    "text": "I want soup."
+  },
+  {
+    "file": "07_use_your_spoon.mp3",
+    "text": "Use your spoon."
+  },
+  {
+    "file": "08_use_your_fork.mp3",
+    "text": "Use your fork."
+  },
+  {
+    "file": "09_this_is_your_bowl.mp3",
+    "text": "This is your bowl."
+  },
+  {
+    "file": "10_put_it_on_the_table.mp3",
+    "text": "Put it on the table."
+  },
+  {
+    "file": "11_sit_at_the_table.mp3",
+    "text": "Sit at the table."
+  },
+  {
+    "file": "12_drink_your_milk.mp3",
+    "text": "Drink your milk."
+  },
+  {
+    "file": "13_im_full.mp3",
+    "text": "I'm full."
+  },
+  {
+    "file": "14_all_done.mp3",
+    "text": "All done."
+  },
+  {
+    "file": "15_wipe_the_table.mp3",
+    "text": "Wipe the table."
+  },
+  {
+    "file": "16_thank_you_for_dinner.mp3",
+    "text": "Thank you for dinner."
+  },
+  {
+    "file": "17_this_is_lunch.mp3",
+    "text": "This is lunch."
+  },
+  {
+    "file": "18_this_is_dinner.mp3",
+    "text": "This is dinner."
+  },
+  {
+    "file": "19_pass_the_rice_please.mp3",
+    "text": "Pass the rice, please."
+  },
+  {
+    "file": "20_the_bowl_is_empty.mp3",
+    "text": "The bowl is empty."
+  }
+]

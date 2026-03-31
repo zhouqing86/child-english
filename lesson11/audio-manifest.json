@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_are_you_happy.mp3",
+    "text": "Are you happy?"
+  },
+  {
+    "file": "02_im_happy.mp3",
+    "text": "I'm happy."
+  },
+  {
+    "file": "03_are_you_sad.mp3",
+    "text": "Are you sad?"
+  },
+  {
+    "file": "04_im_sad.mp3",
+    "text": "I'm sad."
+  },
+  {
+    "file": "05_are_you_angry.mp3",
+    "text": "Are you angry?"
+  },
+  {
+    "file": "06_im_angry.mp3",
+    "text": "I'm angry."
+  },
+  {
+    "file": "07_are_you_scared.mp3",
+    "text": "Are you scared?"
+  },
+  {
+    "file": "08_im_scared.mp3",
+    "text": "I'm scared."
+  },
+  {
+    "file": "09_are_you_tired.mp3",
+    "text": "Are you tired?"
+  },
+  {
+    "file": "10_im_tired.mp3",
+    "text": "I'm tired."
+  },
+  {
+    "file": "11_are_you_sleepy.mp3",
+    "text": "Are you sleepy?"
+  },
+  {
+    "file": "12_im_sleepy.mp3",
+    "text": "I'm sleepy."
+  },
+  {
+    "file": "13_dont_cry.mp3",
+    "text": "Don't cry."
+  },
+  {
+    "file": "14_take_a_deep_breath.mp3",
+    "text": "Take a deep breath."
+  },
+  {
+    "file": "15_its_okay.mp3",
+    "text": "It's okay."
+  },
+  {
+    "file": "16_i_need_a_hug.mp3",
+    "text": "I need a hug."
+  },
+  {
+    "file": "17_show_me_a_happy_face.mp3",
+    "text": "Show me a happy face."
+  },
+  {
+    "file": "18_show_me_a_sad_face.mp3",
+    "text": "Show me a sad face."
+  },
+  {
+    "file": "19_i_feel_better.mp3",
+    "text": "I feel better."
+  },
+  {
+    "file": "20_im_excited.mp3",
+    "text": "I'm excited."
+  }
+]

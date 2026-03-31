@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_this_is_a_dog.mp3",
+    "text": "This is a dog."
+  },
+  {
+    "file": "02_the_dog_says_woof.mp3",
+    "text": "The dog says woof."
+  },
+  {
+    "file": "03_this_is_a_cat.mp3",
+    "text": "This is a cat."
+  },
+  {
+    "file": "04_the_cat_says_meow.mp3",
+    "text": "The cat says meow."
+  },
+  {
+    "file": "05_this_is_a_bird.mp3",
+    "text": "This is a bird."
+  },
+  {
+    "file": "06_the_bird_says_tweet.mp3",
+    "text": "The bird says tweet."
+  },
+  {
+    "file": "07_this_is_a_cow.mp3",
+    "text": "This is a cow."
+  },
+  {
+    "file": "08_the_cow_says_moo.mp3",
+    "text": "The cow says moo."
+  },
+  {
+    "file": "09_this_is_a_duck.mp3",
+    "text": "This is a duck."
+  },
+  {
+    "file": "10_the_duck_says_quack.mp3",
+    "text": "The duck says quack."
+  },
+  {
+    "file": "11_the_rabbit_hops.mp3",
+    "text": "The rabbit hops."
+  },
+  {
+    "file": "12_the_fish_swims.mp3",
+    "text": "The fish swims."
+  },
+  {
+    "file": "13_the_horse_runs.mp3",
+    "text": "The horse runs."
+  },
+  {
+    "file": "14_i_like_the_lion.mp3",
+    "text": "I like the lion."
+  },
+  {
+    "file": "15_which_animal_is_it.mp3",
+    "text": "Which animal is it?"
+  },
+  {
+    "file": "16_good_animal_sound.mp3",
+    "text": "Good animal sound."
+  },
+  {
+    "file": "17_this_is_a_sheep.mp3",
+    "text": "This is a sheep."
+  },
+  {
+    "file": "18_the_sheep_says_baa.mp3",
+    "text": "The sheep says baa."
+  },
+  {
+    "file": "19_this_is_a_frog.mp3",
+    "text": "This is a frog."
+  },
+  {
+    "file": "20_i_like_the_panda.mp3",
+    "text": "I like the panda."
+  }
+]

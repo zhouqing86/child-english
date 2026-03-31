@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_stand_up.mp3",
+    "text": "Stand up."
+  },
+  {
+    "file": "02_sit_down.mp3",
+    "text": "Sit down."
+  },
+  {
+    "file": "03_jump.mp3",
+    "text": "Jump."
+  },
+  {
+    "file": "04_run.mp3",
+    "text": "Run."
+  },
+  {
+    "file": "05_walk_slowly.mp3",
+    "text": "Walk slowly."
+  },
+  {
+    "file": "06_stop.mp3",
+    "text": "Stop."
+  },
+  {
+    "file": "07_turn_around.mp3",
+    "text": "Turn around."
+  },
+  {
+    "file": "08_clap_your_hands.mp3",
+    "text": "Clap your hands."
+  },
+  {
+    "file": "09_stomp_your_feet.mp3",
+    "text": "Stomp your feet."
+  },
+  {
+    "file": "10_open_your_arms.mp3",
+    "text": "Open your arms."
+  },
+  {
+    "file": "11_close_your_eyes.mp3",
+    "text": "Close your eyes."
+  },
+  {
+    "file": "12_touch_the_floor.mp3",
+    "text": "Touch the floor."
+  },
+  {
+    "file": "13_dance_with_me.mp3",
+    "text": "Dance with me."
+  },
+  {
+    "file": "14_come_here.mp3",
+    "text": "Come here."
+  },
+  {
+    "file": "15_go_there.mp3",
+    "text": "Go there."
+  },
+  {
+    "file": "16_good_moving.mp3",
+    "text": "Good moving."
+  },
+  {
+    "file": "17_jump_high.mp3",
+    "text": "Jump high."
+  },
+  {
+    "file": "18_walk_fast.mp3",
+    "text": "Walk fast."
+  },
+  {
+    "file": "19_freeze.mp3",
+    "text": "Freeze."
+  },
+  {
+    "file": "20_move_like_a_robot.mp3",
+    "text": "Move like a robot."
+  }
+]

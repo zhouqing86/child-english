@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_this_is_a_table.mp3",
+    "text": "This is a table."
+  },
+  {
+    "file": "02_this_is_a_chair.mp3",
+    "text": "This is a chair."
+  },
+  {
+    "file": "03_this_is_a_bed.mp3",
+    "text": "This is a bed."
+  },
+  {
+    "file": "04_this_is_a_door.mp3",
+    "text": "This is a door."
+  },
+  {
+    "file": "05_this_is_a_window.mp3",
+    "text": "This is a window."
+  },
+  {
+    "file": "06_open_the_door.mp3",
+    "text": "Open the door."
+  },
+  {
+    "file": "07_close_the_door.mp3",
+    "text": "Close the door."
+  },
+  {
+    "file": "08_open_the_window.mp3",
+    "text": "Open the window."
+  },
+  {
+    "file": "09_close_the_window.mp3",
+    "text": "Close the window."
+  },
+  {
+    "file": "10_put_it_on_the_table.mp3",
+    "text": "Put it on the table."
+  },
+  {
+    "file": "11_sit_on_the_chair.mp3",
+    "text": "Sit on the chair."
+  },
+  {
+    "file": "12_go_to_bed.mp3",
+    "text": "Go to bed."
+  },
+  {
+    "file": "13_turn_on_the_light.mp3",
+    "text": "Turn on the light."
+  },
+  {
+    "file": "14_turn_off_the_light.mp3",
+    "text": "Turn off the light."
+  },
+  {
+    "file": "15_where_is_the_bag.mp3",
+    "text": "Where is the bag?"
+  },
+  {
+    "file": "16_its_in_the_box.mp3",
+    "text": "It's in the box."
+  },
+  {
+    "file": "17_this_is_a_sofa.mp3",
+    "text": "This is a sofa."
+  },
+  {
+    "file": "18_this_is_a_lamp.mp3",
+    "text": "This is a lamp."
+  },
+  {
+    "file": "19_this_is_a_shelf.mp3",
+    "text": "This is a shelf."
+  },
+  {
+    "file": "20_this_is_a_blanket.mp3",
+    "text": "This is a blanket."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_please.mp3",
+    "text": "Please."
+  },
+  {
+    "file": "02_thank_you.mp3",
+    "text": "Thank you."
+  },
+  {
+    "file": "03_youre_welcome.mp3",
+    "text": "You're welcome."
+  },
+  {
+    "file": "04_sorry.mp3",
+    "text": "Sorry."
+  },
+  {
+    "file": "05_excuse_me.mp3",
+    "text": "Excuse me."
+  },
+  {
+    "file": "06_may_i_come_in.mp3",
+    "text": "May I come in?"
+  },
+  {
+    "file": "07_can_i_have_some_water.mp3",
+    "text": "Can I have some water?"
+  },
+  {
+    "file": "08_here_you_are.mp3",
+    "text": "Here you are."
+  },
+  {
+    "file": "09_nice_to_meet_you.mp3",
+    "text": "Nice to meet you."
+  },
+  {
+    "file": "10_lets_share.mp3",
+    "text": "Let's share."
+  },
+  {
+    "file": "11_after_you.mp3",
+    "text": "After you."
+  },
+  {
+    "file": "12_good_manners.mp3",
+    "text": "Good manners."
+  },
+  {
+    "file": "13_can_you_help_me.mp3",
+    "text": "Can you help me?"
+  },
+  {
+    "file": "14_yes_i_can.mp3",
+    "text": "Yes, I can."
+  },
+  {
+    "file": "15_no_problem.mp3",
+    "text": "No problem."
+  },
+  {
+    "file": "16_see_you_later.mp3",
+    "text": "See you later."
+  },
+  {
+    "file": "17_youre_kind.mp3",
+    "text": "You're kind."
+  },
+  {
+    "file": "18_may_i_sit_here.mp3",
+    "text": "May I sit here?"
+  },
+  {
+    "file": "19_my_turn.mp3",
+    "text": "My turn."
+  },
+  {
+    "file": "20_your_turn.mp3",
+    "text": "Your turn."
+  }
+]

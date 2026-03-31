@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_this_is_your_toy.mp3",
+    "text": "This is your toy."
+  },
+  {
+    "file": "02_lets_play.mp3",
+    "text": "Let's play."
+  },
+  {
+    "file": "03_i_want_the_ball.mp3",
+    "text": "I want the ball."
+  },
+  {
+    "file": "04_throw_the_ball.mp3",
+    "text": "Throw the ball."
+  },
+  {
+    "file": "05_catch_the_ball.mp3",
+    "text": "Catch the ball."
+  },
+  {
+    "file": "06_roll_the_car.mp3",
+    "text": "Roll the car."
+  },
+  {
+    "file": "07_build_a_tower.mp3",
+    "text": "Build a tower."
+  },
+  {
+    "file": "08_its_falling_down.mp3",
+    "text": "It's falling down."
+  },
+  {
+    "file": "09_pick_up_your_toys.mp3",
+    "text": "Pick up your toys."
+  },
+  {
+    "file": "10_put_it_in_the_box.mp3",
+    "text": "Put it in the box."
+  },
+  {
+    "file": "11_clean_up_please.mp3",
+    "text": "Clean up, please."
+  },
+  {
+    "file": "12_this_is_my_teddy_bear.mp3",
+    "text": "This is my teddy bear."
+  },
+  {
+    "file": "13_where_is_the_puzzle.mp3",
+    "text": "Where is the puzzle?"
+  },
+  {
+    "file": "14_here_it_is.mp3",
+    "text": "Here it is."
+  },
+  {
+    "file": "15_share_your_toy.mp3",
+    "text": "Share your toy."
+  },
+  {
+    "file": "16_good_cleaning_up.mp3",
+    "text": "Good cleaning up."
+  },
+  {
+    "file": "17_one_more_block.mp3",
+    "text": "One more block."
+  },
+  {
+    "file": "18_lets_open_the_box.mp3",
+    "text": "Let's open the box."
+  },
+  {
+    "file": "19_close_the_box.mp3",
+    "text": "Close the box."
+  },
+  {
+    "file": "20_the_room_is_clean.mp3",
+    "text": "The room is clean."
+  }
+]

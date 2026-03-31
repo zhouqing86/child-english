@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_this_is_a_car.mp3",
+    "text": "This is a car."
+  },
+  {
+    "file": "02_this_is_a_bus.mp3",
+    "text": "This is a bus."
+  },
+  {
+    "file": "03_this_is_a_bike.mp3",
+    "text": "This is a bike."
+  },
+  {
+    "file": "04_this_is_a_train.mp3",
+    "text": "This is a train."
+  },
+  {
+    "file": "05_this_is_a_taxi.mp3",
+    "text": "This is a taxi."
+  },
+  {
+    "file": "06_go_by_car.mp3",
+    "text": "Go by car."
+  },
+  {
+    "file": "07_ride_the_bike.mp3",
+    "text": "Ride the bike."
+  },
+  {
+    "file": "08_wait_for_the_bus.mp3",
+    "text": "Wait for the bus."
+  },
+  {
+    "file": "09_the_train_is_coming.mp3",
+    "text": "The train is coming."
+  },
+  {
+    "file": "10_get_in_the_car.mp3",
+    "text": "Get in the car."
+  },
+  {
+    "file": "11_buckle_up.mp3",
+    "text": "Buckle up."
+  },
+  {
+    "file": "12_the_light_is_red.mp3",
+    "text": "The light is red."
+  },
+  {
+    "file": "13_the_light_is_green.mp3",
+    "text": "The light is green."
+  },
+  {
+    "file": "14_stop_the_car.mp3",
+    "text": "Stop the car."
+  },
+  {
+    "file": "15_lets_go_home.mp3",
+    "text": "Let's go home."
+  },
+  {
+    "file": "16_fast_train.mp3",
+    "text": "Fast train."
+  },
+  {
+    "file": "17_this_is_a_plane.mp3",
+    "text": "This is a plane."
+  },
+  {
+    "file": "18_this_is_a_boat.mp3",
+    "text": "This is a boat."
+  },
+  {
+    "file": "19_the_bus_is_big.mp3",
+    "text": "The bus is big."
+  },
+  {
+    "file": "20_the_car_is_fast.mp3",
+    "text": "The car is fast."
+  }
+]

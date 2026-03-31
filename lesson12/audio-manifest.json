@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_its_sunny.mp3",
+    "text": "It's sunny."
+  },
+  {
+    "file": "02_its_rainy.mp3",
+    "text": "It's rainy."
+  },
+  {
+    "file": "03_its_cloudy.mp3",
+    "text": "It's cloudy."
+  },
+  {
+    "file": "04_its_windy.mp3",
+    "text": "It's windy."
+  },
+  {
+    "file": "05_its_hot.mp3",
+    "text": "It's hot."
+  },
+  {
+    "file": "06_its_cold.mp3",
+    "text": "It's cold."
+  },
+  {
+    "file": "07_wear_your_hat.mp3",
+    "text": "Wear your hat."
+  },
+  {
+    "file": "08_wear_your_raincoat.mp3",
+    "text": "Wear your raincoat."
+  },
+  {
+    "file": "09_take_your_umbrella.mp3",
+    "text": "Take your umbrella."
+  },
+  {
+    "file": "10_put_on_a_sweater.mp3",
+    "text": "Put on a sweater."
+  },
+  {
+    "file": "11_take_off_your_jacket.mp3",
+    "text": "Take off your jacket."
+  },
+  {
+    "file": "12_the_sun_is_out.mp3",
+    "text": "The sun is out."
+  },
+  {
+    "file": "13_the_rain_is_falling.mp3",
+    "text": "The rain is falling."
+  },
+  {
+    "file": "14_lets_check_the_weather.mp3",
+    "text": "Let's check the weather."
+  },
+  {
+    "file": "15_its_a_cold_day.mp3",
+    "text": "It's a cold day."
+  },
+  {
+    "file": "16_we_need_boots.mp3",
+    "text": "We need boots."
+  },
+  {
+    "file": "17_its_warm_today.mp3",
+    "text": "It's warm today."
+  },
+  {
+    "file": "18_its_snowing.mp3",
+    "text": "It's snowing."
+  },
+  {
+    "file": "19_wear_your_scarf.mp3",
+    "text": "Wear your scarf."
+  },
+  {
+    "file": "20_put_on_your_gloves.mp3",
+    "text": "Put on your gloves."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_its_morning.mp3",
+    "text": "It's morning."
+  },
+  {
+    "file": "02_its_afternoon.mp3",
+    "text": "It's afternoon."
+  },
+  {
+    "file": "03_its_night.mp3",
+    "text": "It's night."
+  },
+  {
+    "file": "04_its_time_to_eat.mp3",
+    "text": "It's time to eat."
+  },
+  {
+    "file": "05_its_time_to_play.mp3",
+    "text": "It's time to play."
+  },
+  {
+    "file": "06_its_time_to_sleep.mp3",
+    "text": "It's time to sleep."
+  },
+  {
+    "file": "07_first_wash_your_hands.mp3",
+    "text": "First wash your hands."
+  },
+  {
+    "file": "08_then_lets_eat.mp3",
+    "text": "Then let's eat."
+  },
+  {
+    "file": "09_next_brush_your_teeth.mp3",
+    "text": "Next brush your teeth."
+  },
+  {
+    "file": "10_now_its_bath_time.mp3",
+    "text": "Now it's bath time."
+  },
+  {
+    "file": "11_later_we_will_read.mp3",
+    "text": "Later we will read."
+  },
+  {
+    "file": "12_what_time_is_it.mp3",
+    "text": "What time is it?"
+  },
+  {
+    "file": "13_its_bedtime.mp3",
+    "text": "It's bedtime."
+  },
+  {
+    "file": "14_hurry_up.mp3",
+    "text": "Hurry up."
+  },
+  {
+    "file": "15_wait_a_minute.mp3",
+    "text": "Wait a minute."
+  },
+  {
+    "file": "16_good_routine.mp3",
+    "text": "Good routine."
+  },
+  {
+    "file": "17_before_dinner.mp3",
+    "text": "Before dinner."
+  },
+  {
+    "file": "18_after_dinner.mp3",
+    "text": "After dinner."
+  },
+  {
+    "file": "19_today_is_busy.mp3",
+    "text": "Today is busy."
+  },
+  {
+    "file": "20_its_time_to_go.mp3",
+    "text": "It's time to go."
+  }
+]

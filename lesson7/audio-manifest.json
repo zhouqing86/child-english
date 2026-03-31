@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_what_color_is_it.mp3",
+    "text": "What color is it?"
+  },
+  {
+    "file": "02_it_is_red.mp3",
+    "text": "It is red."
+  },
+  {
+    "file": "03_it_is_blue.mp3",
+    "text": "It is blue."
+  },
+  {
+    "file": "04_it_is_yellow.mp3",
+    "text": "It is yellow."
+  },
+  {
+    "file": "05_it_is_green.mp3",
+    "text": "It is green."
+  },
+  {
+    "file": "06_show_me_the_red_one.mp3",
+    "text": "Show me the red one."
+  },
+  {
+    "file": "07_show_me_the_blue_one.mp3",
+    "text": "Show me the blue one."
+  },
+  {
+    "file": "08_this_is_a_circle.mp3",
+    "text": "This is a circle."
+  },
+  {
+    "file": "09_this_is_a_square.mp3",
+    "text": "This is a square."
+  },
+  {
+    "file": "10_this_is_a_triangle.mp3",
+    "text": "This is a triangle."
+  },
+  {
+    "file": "11_big_circle.mp3",
+    "text": "Big circle."
+  },
+  {
+    "file": "12_small_square.mp3",
+    "text": "Small square."
+  },
+  {
+    "file": "13_i_like_the_yellow_star.mp3",
+    "text": "I like the yellow star."
+  },
+  {
+    "file": "14_find_a_red_ball.mp3",
+    "text": "Find a red ball."
+  },
+  {
+    "file": "15_match_the_same_color.mp3",
+    "text": "Match the same color."
+  },
+  {
+    "file": "16_good_matching.mp3",
+    "text": "Good matching."
+  },
+  {
+    "file": "17_it_is_orange.mp3",
+    "text": "It is orange."
+  },
+  {
+    "file": "18_it_is_purple.mp3",
+    "text": "It is purple."
+  },
+  {
+    "file": "19_this_is_a_rectangle.mp3",
+    "text": "This is a rectangle."
+  },
+  {
+    "file": "20_this_is_a_heart.mp3",
+    "text": "This is a heart."
+  }
+]

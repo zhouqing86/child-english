@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_my_tummy_hurts.mp3",
+    "text": "My tummy hurts."
+  },
+  {
+    "file": "02_my_head_hurts.mp3",
+    "text": "My head hurts."
+  },
+  {
+    "file": "03_i_dont_feel_well.mp3",
+    "text": "I don't feel well."
+  },
+  {
+    "file": "04_i_am_sick.mp3",
+    "text": "I am sick."
+  },
+  {
+    "file": "05_i_am_hot.mp3",
+    "text": "I am hot."
+  },
+  {
+    "file": "06_i_am_cold.mp3",
+    "text": "I am cold."
+  },
+  {
+    "file": "07_i_need_water.mp3",
+    "text": "I need water."
+  },
+  {
+    "file": "08_please_help_me.mp3",
+    "text": "Please help me."
+  },
+  {
+    "file": "09_be_careful.mp3",
+    "text": "Be careful."
+  },
+  {
+    "file": "10_walk_slowly.mp3",
+    "text": "Walk slowly."
+  },
+  {
+    "file": "11_stop_right_there.mp3",
+    "text": "Stop right there."
+  },
+  {
+    "file": "12_dont_touch_that.mp3",
+    "text": "Don't touch that."
+  },
+  {
+    "file": "13_its_too_hot.mp3",
+    "text": "It's too hot."
+  },
+  {
+    "file": "14_its_dangerous.mp3",
+    "text": "It's dangerous."
+  },
+  {
+    "file": "15_take_a_rest.mp3",
+    "text": "Take a rest."
+  },
+  {
+    "file": "16_are_you_okay.mp3",
+    "text": "Are you okay?"
+  },
+  {
+    "file": "17_i_need_a_tissue.mp3",
+    "text": "I need a tissue."
+  },
+  {
+    "file": "18_cough_cough.mp3",
+    "text": "Cough cough."
+  },
+  {
+    "file": "19_achoo.mp3",
+    "text": "Achoo."
+  },
+  {
+    "file": "20_call_mommy.mp3",
+    "text": "Call Mommy."
+  }
+]
