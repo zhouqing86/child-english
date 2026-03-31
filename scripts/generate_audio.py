@@ -9,12 +9,27 @@ import edge_tts
 DEFAULT_VOICE = "en-US-AnaNeural"
 DEFAULT_RATE = "+0%"
 DEFAULT_VOLUME = "+0%"
+DEFAULT_RETRIES = 3
 ROOT_DIR = Path(__file__).resolve().parents[1]
 
 
 async def save_audio(text: str, output_path: Path, voice: str, rate: str, volume: str) -> None:
-    communicator = edge_tts.Communicate(text=text, voice=voice, rate=rate, volume=volume)
-    await communicator.save(str(output_path))
+    last_error: Exception | None = None
+    for attempt in range(1, DEFAULT_RETRIES + 1):
+        try:
+            communicator = edge_tts.Communicate(text=text, voice=voice, rate=rate, volume=volume)
+            await communicator.save(str(output_path))
+            return
+        except edge_tts.exceptions.NoAudioReceived as error:
+            last_error = error
+            if attempt == DEFAULT_RETRIES:
+                break
+            wait_seconds = attempt
+            print(f"    retrying after transient TTS failure ({attempt}/{DEFAULT_RETRIES})...")
+            await asyncio.sleep(wait_seconds)
+
+    if last_error is not None:
+        raise last_error
 
 
 def load_manifest(manifest_path: Path) -> list[dict[str, str]]:
