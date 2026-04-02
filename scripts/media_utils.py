@@ -98,12 +98,13 @@ def parse_dialogue_groups(dialogues_path: Path) -> list[dict[str, object]]:
             return
 
         current_index = max(dialogue_index, 1)
+        first_line_text = current_lines[0]["text"]
         groups.append(
             {
                 "dialogue_index": current_index,
                 "lines": current_lines,
                 "text": "\n".join(f"{line['speaker']}: {line['text']}" for line in current_lines),
-                "file": f"{current_index:02d}_dialogue.mp3",
+                "file": f"{current_index:02d}_{slugify(first_line_text, fallback='dialogue')}.mp3",
             }
         )
         current_lines = []

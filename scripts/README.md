@@ -35,6 +35,7 @@
 ```
 
 生成结果会保存到各 lesson 的 `audio/dialogues` 目录，并按“每段对话一个 mp3”输出。
+文件名会使用“对话序号 + 首句内容”的 slug，例如 `01_good_morning.mp3`。
 默认 `Parent` 使用 `en-US-GuyNeural`，`Child` 使用更接近童声的 `en-US-AnaNeural`。
 
 ## 生成每个 lesson 的 MP4 视频
