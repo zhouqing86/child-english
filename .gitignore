@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Generated lesson media
+lesson*/audio/*.mp3
+lesson*/video/*.mp4
+lesson*/video/*.mov
+lesson*/video/*.webm
+
+# Temporary files from local media generation
+lesson*TEMP_MPY*.mp4
